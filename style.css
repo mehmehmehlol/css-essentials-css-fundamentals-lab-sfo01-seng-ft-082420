@@ -1,5 +1,36 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
 }
+
+header {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
+
+nav {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: gray;
+}
+
+p#featured-property {
+  width: 800px;
+  text-align: center;
+}
+
+#details {
+  display: 
+}
+
